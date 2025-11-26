@@ -10,7 +10,7 @@
 - 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
 - 🌱 I’m currently learning **React, React Native, Expo, Node.js, Flutter, and Databases**.
 - ✨ I’m a creative thinker with an eye for design and code that delivers value.
-- 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), [Telegram](t.me/EM_GOM), & [Portfolio Website](https://mwambae.vercel.app)
+- 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), & [Portfolio Website](https://www.mwambae.me)
 - 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
 
 ---
@@ -80,10 +80,10 @@
 
 ### GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MwambaEmmanuel&show_icons=true&theme=radical" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MwambaEmmanuel&theme=radical" /> |
 |:--:|:--:|
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwambaEmmanuel&layout=compact&theme=radical" />
 
 ---
 
