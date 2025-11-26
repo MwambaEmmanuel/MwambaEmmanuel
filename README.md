@@ -82,14 +82,18 @@
 
 <div align="center">
 
+<!-- GitHub Stats Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwambaemmanuel&theme=radical" alt="GitHub Stats" />
 
+<!-- Spacer -->
 <br><br>
 
+<!-- GitHub Streak Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwambaemmanuel&theme=radical&utcOffset=+2" alt="GitHub Streak" />
 
 <br><br>
 
+<!-- Top Languages Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwambaemmanuel&theme=radical" alt="Top Languages" />
 
 </div>
