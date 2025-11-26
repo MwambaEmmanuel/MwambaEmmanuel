@@ -80,10 +80,19 @@
 
 ### GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/mwambaemmanuel?label=Followers&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/mwambaemmanuel?label=Stars&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/mwambaemmanuel?affiliations=OWNER&style=for-the-badge)
-![GitHub contributions](https://img.shields.io/github/commit-activity/y/mwambaemmanuel?style=for-the-badge)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwambaemmanuel&theme=radical" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwambaemmanuel&theme=radical&utcOffset=+2" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwambaemmanuel&theme=radical" alt="Top Languages" />
+
+</div>
 
 ---
 
