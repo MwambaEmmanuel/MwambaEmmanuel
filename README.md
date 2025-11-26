@@ -80,10 +80,10 @@
 
 ### GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&theme=radical&cache_seconds=86400) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwambaemmanuel&theme=radical) |
-|:--:|:--:|
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub followers](https://img.shields.io/github/followers/mwambaemmanuel?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/mwambaemmanuel?label=Stars&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/mwambaemmanuel?affiliations=OWNER&style=for-the-badge)
+![GitHub contributions](https://img.shields.io/github/commit-activity/y/mwambaemmanuel?style=for-the-badge)
 
 ---
 
