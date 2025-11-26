@@ -78,19 +78,21 @@
 
 ---
 
-### GitHub Stats:
+### 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mwambaemmanuel&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mwambaemmanuel&theme=radical" alt="GitHub Streak Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
 
 ---
 
