@@ -87,6 +87,10 @@
 
 ---
 
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MwambaEmmanuel&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Quote of the Day:
 > "Your life doesn’t improve by waiting for luck; it improves by embracing change. Keep growing, keep creating, and never stop evolving." <br> - Dev Emmanuel <IronCipher/>
 
