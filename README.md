@@ -80,15 +80,10 @@
 
 ### GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MwambaEmmanuel&show_icons=true&theme=radical" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MwambaEmmanuel&theme=radical" alt="GitHub streak" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&theme=radical" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwambaemmanuel&theme=radical" alt="GitHub streak" /> |
 |:--:|:--:|
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwambaEmmanuel&layout=compact&theme=radical" />
-
----
-
-### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MwambaEmmanuel&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" />
 
 ---
 
