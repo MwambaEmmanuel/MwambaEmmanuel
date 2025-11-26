@@ -76,12 +76,14 @@
 - AI & ML for software solutions  
 - Mobile-first & progressive web app development  
 
-### GitHub Stats:
+--- 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwambaemmanuel&theme=radical" alt="GitHub streak" /> |
+### GitHub Stats
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwambaemmanuel&theme=radical) |
 |:--:|:--:|
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical)
 
 ---
 
