@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Hi 👋, I'm Emmanuel</h1>
-  <strong>SWE Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher</strong>
+  <h1>Hi, I'm Emmanuel</h1>
+  <strong>Software Engineer | Web Developer | Building ShopLink Market | Speaker | Preacher</strong>
 </div>
 
 ---
 
 ### About Me
 
-- 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
-- 🌱 I’m currently learning **React, React Native, Expo, Node.js, Flutter, and Databases**.
-- ✨ I’m a creative thinker with an eye for design and code that delivers value.
-- 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), & [Portfolio Website](https://www.mwambae.me)
-- 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
+- I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
+- I’m currently learning **React, React Native, Expo, Node.js, Flutter, and Databases**.
+- I’m a creative thinker with an eye for design and code that delivers value.
+- Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), & [Portfolio Website](https://www.mwambae.me)
+- Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
 
 ---
 
@@ -76,23 +76,12 @@
 - AI & ML for software solutions  
 - Mobile-first & progressive web app development  
 
----
+### GitHub Stats:
 
-### 🚀 GitHub Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwambaemmanuel&theme=radical" alt="GitHub streak" /> |
+|:--:|:--:|
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mwambaemmanuel&theme=radical" alt="GitHub Streak Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" />
 
 ---
 
