@@ -80,10 +80,17 @@
 
 ### GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&theme=radical" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwambaemmanuel&theme=radical" alt="GitHub streak" /> |
-|:--:|:--:|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mwambaemmanuel&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
