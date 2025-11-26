@@ -80,7 +80,7 @@
 
 ### GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MwambaEmmanuel&show_icons=true&theme=radical" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MwambaEmmanuel&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MwambaEmmanuel&show_icons=true&theme=radical" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MwambaEmmanuel&theme=radical" alt="GitHub streak" /> |
 |:--:|:--:|
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwambaEmmanuel&layout=compact&theme=radical" />
