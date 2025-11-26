@@ -82,10 +82,9 @@
 
 <div align="center">
 
-<!-- Stats card, streak card, top languages card in a single row -->
-<img src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" width="350" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwambaemmanuel&theme=radical" alt="GitHub Streak" width="300" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=mwambaemmanuel&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" width="250" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwambaemmanuel&theme=radical" alt="GitHub Streak" width="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwambaemmanuel&layout=compact&theme=radical" alt="Top Languages" width="200" />
 
 </div>
 
