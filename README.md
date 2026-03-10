@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Emmanuel</h1>
-  <strong>Software Engineer | Web Developer | Building ShopLink Market | Speaker | Preacher</strong>
+  <strong>Software Engineering Student | Full-Stack Developer | Building ShopLink Market</strong>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 - I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
 - I’m currently learning **React, React Native, Expo, Node.js, Flutter, and Databases**.
 - I’m a creative thinker with an eye for design and code that delivers value.
-- Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), & [Portfolio Website](https://www.mwambae.me)
+- Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney), & [Portfolio Website](https://www.mwambae.me)
 - Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 ### Relevant Certifications
-- FullStack Wrb Developemnt - Udemy 
+- FullStack Web Developemnt - Udemy 
 - FullStack Web Development - Science Exploration Zambia (SEZ) 
 - Graphic Design - Udemy 
 - Web Designa and Creation - Shumba Training Center
@@ -62,9 +62,10 @@
 
 ### Areas of Interest
 - Mobile-first development for underserved communities  
-- AI-assisted education systems  
-- Offline-first apps and progressive web apps (PWAs)  
-
+- AI-assisted education systems
+-  Artificial Intelligence and Automation
+- Offline-first apps and progressive web apps (PWAs)
+  
 ---
 
 ### Currently Exploring:
