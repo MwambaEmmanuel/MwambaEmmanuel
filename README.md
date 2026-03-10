@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Emmanuel</h1>
-  <strong>Software Engineering Student | Full-Stack Developer | Building ShopLink Market</strong>
+  <strong>Software Engineering Student | Full-Stack Developer | Building ShopLink Lite: A WhatsApp powered storefront for small businesses</strong>
 </div>
 
 ---
