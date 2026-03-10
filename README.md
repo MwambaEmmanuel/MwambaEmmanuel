@@ -55,7 +55,7 @@
 - FullStack Web Developemnt - Udemy 
 - FullStack Web Development - Science Exploration Zambia (SEZ) 
 - Graphic Design - Udemy 
-- Web Designa and Creation - Shumba Training Center
+- Web Design and Creation with WordPress - Shumba Training Center
 
 ---
 
