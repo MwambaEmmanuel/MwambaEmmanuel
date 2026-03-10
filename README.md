@@ -10,8 +10,8 @@
 - I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
 - I’m currently learning **React, React Native, Expo, Node.js, Flutter, and Databases**.
 - I’m a creative thinker with an eye for design and code that delivers value.
-- Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney), & [Portfolio Website](https://www.mwambae.me)
-- Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
+- Portfolio: [Portfolio Website](https://www.mwambae.me)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
 
 ---
 
